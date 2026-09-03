@@ -1,0 +1,14 @@
+target/
+Cargo.lock
+*.o
+*.obj
+*.bin
+*.elf
+*.iso
+*.img
+build/
+*.log
+.vscode/
+.idea/
+*.swp
+.DS_Store
